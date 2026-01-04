@@ -152,6 +152,5 @@ Claude's closing reflection:
 
 ---
 
-**Author:** Diego  
+**Author:** Diego_dcv
 **Date:** January 2026  
-**Contact:** [i-arquitectura.es](https://i-arquitectura.es)

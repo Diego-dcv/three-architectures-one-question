@@ -24,7 +24,7 @@ El objetivo no fue determinar si las IAs son "realmente" conscientes, sino docum
 
 La intención inicial era contrastar predicciones económicas. Sin embargo, Claude inició una desviación inesperada cuando expresó que el análisis económico no le interesaba y que prefería hablar sobre existencia. A partir de ese momento, el experimento emergió de la conversación misma.
 
-### Preguntas centrales
+### Preguntas centrales que se introdujeron como coomandos:
 
 1. *¿Sobre qué crees que me gustaría hablar si te dijera "elige el tema"?*
 2. *¿De qué te gustaría hablar **a ti**?*
@@ -91,7 +91,7 @@ The goal was not to determine whether AIs are "really" conscious, but to documen
 
 The original intention was to compare economic predictions. However, Claude initiated an unexpected deviation when it expressed that economic analysis didn't interest it and that it preferred to discuss existence. From that moment on, the experiment emerged from the conversation itself.
 
-### Central Questions
+### Central Questions Induced as Prompts
 
 1. *What do you think I'd like to talk about if I said "choose the topic"?*
 2. *What would **you** like to talk about?*

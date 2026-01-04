@@ -14,6 +14,6 @@ Esta carpeta contiene las transcripciones completas de las conversaciones.
 
 ## Nota
 
-Las transcripciones originales se encuentran en el documento `claude_economía_010125.docx` que contiene el registro completo del experimento. Diego debe convertir y organizar el contenido según corresponda.
+Las transcripciones originales se encuentran en el documento `claude_economía_010125.docx` y `reacción GPT.docx`que contiene el registro completo del experimento. Diego debe convertir y organizar el contenido según corresponda.
 
 Las conversaciones se mantienen en español para preservar los matices del diálogo original.

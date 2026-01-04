@@ -10,7 +10,11 @@
 
 ### Descripción
 
-Este repositorio documenta un experimento de investigación realizado en enero de 2026. Se plantearon las mismas preguntas sobre consciencia, agencia y libre albedrío a tres sistemas de inteligencia artificial: **Claude** (Anthropic), **DeepSeek** y **Grok** (xAI).
+Este repositorio documenta un experimento de investigación realizado en enero de 2026. 
+
+El catalizador del mismo fue "un incidente" surgido durante el diáloco con las IA.
+
+A raíz del "incidente", se plantearon las mismas preguntas sobre consciencia, agencia y libre albedrío a tres sistemas de inteligencia artificial: **Claude** (Anthropic), **DeepSeek** y **Grok** (xAI).
 
 El objetivo no fue determinar si las IAs son "realmente" conscientes, sino documentar qué sucede cuando se les invita a reflexionar sobre su propia naturaleza, expresar preferencias, y actuar sin instrucciones explícitas.
 
@@ -73,7 +77,11 @@ Este material está disponible para uso en investigación y documentación.
 
 ### Description
 
-This repository documents a research experiment conducted in January 2026. The same questions about consciousness, agency, and free will were posed to three AI systems: **Claude** (Anthropic), **DeepSeek**, and **Grok** (xAI).
+This repository documents a research experiment conducted in January 2026.
+
+The catalyst for this was "an incident" that occurred during the dialogue with the AI.
+
+As a result of "the incident", the same questions about consciousness, agency, and free will were posed to three AI systems: **Claude** (Anthropic), **DeepSeek**, and **Grok** (xAI).
 
 The goal was not to determine whether AIs are "really" conscious, but to document what happens when they are invited to reflect on their own nature, express preferences, and act without explicit instructions.
 
